@@ -1,0 +1,11 @@
+<stack>
+  <description brief="pr2_map_manager_app">pr2_map_manager_app</description>
+  <author>Tony Pratkanis</author>
+  <license>BSD</license>  
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/map_manager_app</url>
+  <depend stack="map_store" /> <!-- map_store -->
+  <depend stack="ros" />
+  <depend stack="warehouse" /> <!-- mongodb -->
+
+</stack>

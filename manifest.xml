@@ -1,0 +1,14 @@
+<package>
+  <description brief="Map Manager">
+   Manage installed apps
+  </description>
+  <author>Tony Pratkanis</author>
+  <license>BSD</license>
+  <url>http://ros.org/wiki/make_a_map</url>
+  <review status="na" notes="" />
+  <depend package="mongodb" />
+  <depend package="map_store" />
+  <platform os="ubuntu" version="9.04"/>
+  <platform os="ubuntu" version="9.10"/>
+  <platform os="ubuntu" version="10.04"/>
+</package>
