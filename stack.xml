@@ -6,6 +6,6 @@
   <url>http://ros.org/wiki/map_manager_app</url>
   <depend stack="map_store" /> <!-- map_store -->
   <depend stack="ros" />
-  <depend stack="warehouse" /> <!-- mongodb -->
+  <depend stack="warehousewg" /> <!-- mongodb -->
 
 </stack>
