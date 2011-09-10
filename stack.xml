@@ -1,5 +1,5 @@
 <stack>
-  <description brief="pr2_map_manager_app">pr2_map_manager_app</description>
+  <description brief="map_manager_app">map_manager_app</description>
   <author>Tony Pratkanis</author>
   <license>BSD</license>  
   <review status="unreviewed" notes=""/>

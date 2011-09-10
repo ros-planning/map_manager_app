@@ -1,9 +1,9 @@
 display: Map Manager
 description: Manage installed maps
 platform: pr2
-launch: pr2_map_manager_app/map_manager.launch
-interface: pr2_map_manager_app/map_manager.interface
-icon: pr2_map_manager_app/map.jpg
+launch: map_manager_app/map_manager.launch
+interface: map_manager_app/map_manager.interface
+icon: map_manager_app/map.jpg
 clients:
  - type: android
    manager:
